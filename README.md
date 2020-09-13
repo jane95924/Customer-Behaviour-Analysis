@@ -67,3 +67,4 @@ R programming
 Models.- KNN,SVM,Naive Bayes,Decision Trees,Random Forest.K-Means clustering and Hierarchical clustering.
 
 ## CONTACT
+For questions,clarification,comments Email@jepkemboijane95@gmail.com
